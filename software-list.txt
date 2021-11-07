@@ -1,0 +1,10 @@
+bc
+curl
+wget
+jq
+fake1
+lwp-request
+sqlite3
+shellcheck
+fake2
+dos2unix
